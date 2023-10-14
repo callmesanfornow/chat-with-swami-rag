@@ -1,0 +1,5 @@
+langchain
+gradio
+openai
+faiss-cpu
+tiktoken
